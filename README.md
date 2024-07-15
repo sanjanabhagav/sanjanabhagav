@@ -1,4 +1,4 @@
-CalcSend
+EmailResponder
 Objective
 CalcSend is a website that contains hundreds of commonly used equations in educational settings, whether it is trig sub or finding the wavelength of a transverse wave. Compute expert-level answers to complex calculations instantly, and contribute custom formulas to an academic community.
 
